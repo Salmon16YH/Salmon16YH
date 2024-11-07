@@ -42,7 +42,7 @@ Here are some ideas to get you started:
 🍒 체리
 🐟 물고기
 🍎 사과
-🍅 <span style="color:red">토마토
+🍅 <span style="color:red">토마토</span>
 🐰 *착 한 친 구*
 🍬 노스텔리어 캔디
 🎂 케이킈
