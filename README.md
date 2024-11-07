@@ -1,3 +1,20 @@
+## 팀 개발을 위한 git github 시작하기
+
+
+![image](https://github.com/user-attachments/assets/4fdb8a80-9e68-4d21-8716-998c1cd8a673)
+
+
+
+
+
+
+
+
+
+
+
+
+
 ## Hi there 👋
 
 <!--
@@ -14,3 +31,14 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+
+### :octocat: 안녕하세요? 고양이에요
+🐙 문어 개귀여워
+🍒
+🐟 
+🍎
+🍅
+🍬
+🎂
+🧡
